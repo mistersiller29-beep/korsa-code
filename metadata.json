@@ -1,0 +1,6 @@
+{
+  "name": "Korsa - Fair Taxi Bidding Worldwide",
+  "description": "Global taxi mobility inspired by Moroccan culture: name your fare, negotiate directly with licensed taxi drivers, and travel fairly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
